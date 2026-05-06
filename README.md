@@ -20,25 +20,25 @@ AI based interview and IQ testing platform built using MERN stack.
 ## Screenshots
 
 ### Home Page
-![Home](./client/screenshots/1.png)
+![Home](./client/screenshoots/1.png)
 
 ### Dashboard
-![Dashboard](./client/screenshots/2.png)
+![Dashboard](./client/screenshoots/2.png)
 
 ### Interview Page
-![Interview](./client/screenshots/3.png)
+![Interview](./client/screenshoots/3.png)
 
 ### AI Questions
-![AI Questions](./client/screenshots/4.png)
+![AI Questions](./client/screenshoots/4.png)
 
 ### Result Page
-![Result](./client/screenshots/5.png)
+![Result](./client/screenshoots/5.png)
 
 ### Login Page
-![Login](./client/screenshots/6.png)
+![Login](./client/screenshoots/6.png)
 
 ### Signup Page
-![Signup](./client/screenshots/7.png)
+![Signup](./client/screenshoots/7.png)
 
 
 ## Installation & Run
